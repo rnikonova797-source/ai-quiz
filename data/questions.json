@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question": "Что имитирует ИИ?",
-    "image": "assets/images/2.jpg",
+    "image": "assets/images/1.jpg",
     "options": [
       "Когнитивные функции человека",
       "Физические процессы",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "question": "Как называют ИИ для одной задачи?",
-    "image": "assets/images/3.jpg",
+    "image": "assets/images/2.jpg",
     "options": [
       "Сильный ИИ",
       "Узкий ИИ",
