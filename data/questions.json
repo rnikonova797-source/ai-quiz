@@ -1,8 +1,20 @@
 [
   {
     "id": 1,
-    "question": "Что имитирует ИИ?",
+    "question": "Что такое Large Language Model (LLM)?",
     "image": "assets/images/1.jpg",
+    "options": [
+      "Нейросеть, обученная на огромных текстах",
+      "База данных с готовыми ответами",
+      "Язык программирования для ИИ"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "Что имитирует ИИ?",
+    "image": "assets/images/2.jpg",
     "options": [
       "Когнитивные функции человека",
       "Физические процессы",
@@ -12,9 +24,9 @@
     "difficulty": "easy"
   },
   {
-    "id": 2,
+    "id": 3,
     "question": "Как называют ИИ для одной задачи?",
-    "image": "assets/images/2.jpg",
+    "image": "assets/images/3.jpg",
     "options": [
       "Сильный ИИ",
       "Узкий ИИ",
@@ -22,5 +34,197 @@
     ],
     "correctIndex": 1,
     "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "Где ИИ помогает ставить диагнозы?",
+    "image": "assets/images/4.jpg",
+    "options": [
+      "В медицине",
+      "В кулинарии",
+      "В спорте"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "Что такое нейросеть?",
+    "image": "assets/images/5.jpg",
+    "options": [
+      "Модель, вдохновлённая мозгом",
+      "Вид компьютерного вируса",
+      "Тип интернет-кабеля"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "question": "Кто помогает в быту как голосовой ассистент?",
+    "image": "assets/images/6.jpg",
+    "options": [
+      "ИИ",
+      "Брандмауэр",
+      "Операционная система"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "Какой плюс у ИИ?",
+    "image": "assets/images/7.jpg",
+    "options": [
+      "Быстрая обработка данных",
+      "Полная замена человека",
+      "Отсутствие ошибок"
+    ],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "question": "Что изучает NLP?",
+    "image": "assets/images/8.jpg",
+    "options": [
+      "Компьютерное зрение",
+      "Человеческий язык",
+      "Робототехнику"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "question": "Как называется обучение на данных без явного программирования?",
+    "image": "assets/images/9.jpg",
+    "options": [
+      "Машинное обучение",
+      "Жёсткое кодирование",
+      "Ручная настройка"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "Где ИИ анализирует снимки МРТ и КТ?",
+    "image": "assets/images/10.jpg",
+    "options": [
+      "В образовании",
+      "В медицине",
+      "В транспорте"
+    ],
+    "correctIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 11,
+    "question": "Какой промпт показывает 2–3 примера ответа?",
+    "image": "assets/images/11.jpg",
+    "options": [
+      "Few-shot prompting",
+      "Ролевой контекст",
+      "Декомпозиция"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "question": "Что указывает роль ИИ в промпте («ты — учитель»)?",
+    "image": "assets/images/12.jpg",
+    "options": [
+      "Ролевой контекст",
+      "Chain of Thought",
+      "Жёсткие ограничения"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 13,
+    "question": "Какой риск несёт ИИ?",
+    "image": "assets/images/13.jpg",
+    "options": [
+      "Утечка персональных данных",
+      "Ускорение интернета",
+      "Уменьшение объёма памяти"
+    ],
+    "correctIndex": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "question": "Что такое эмерджентный интеллект?",
+    "image": "assets/images/14.jpg",
+    "options": [
+      "Сбой алгоритма",
+      "Неожиданные способности больших моделей",
+      "Метод сжатия данных"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 15,
+    "question": "Как учат роботов до выхода в реальный мир?",
+    "image": "assets/images/15.jpg",
+    "options": [
+      "Виртуальная симуляция",
+      "Чтение инструкций",
+      "Наблюдение за людьми"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": 16,
+    "question": "Какой метод просит модель рассуждать пошагово?",
+    "image": "assets/images/16.jpg",
+    "options": [
+      "Декомпозиция",
+      "Chain of Thought",
+      "Few-shot"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 17,
+    "question": "В чём главная этическая проблема ИИ?",
+    "image": "assets/images/17.jpg",
+    "options": [
+      "Кто отвечает за ошибки ИИ",
+      "Скорость работы процессора",
+      "Цвет интерфейса"
+    ],
+    "correctIndex": 0,
+    "difficulty": "hard"
+  },
+  {
+    "id": 18,
+    "question": "Какой промпт разбивает задачу на шаги?",
+    "image": "assets/images/18.jpg",
+    "options": [
+      "Жёсткие ограничения",
+      "Декомпозиция задачи",
+      "Ролевой контекст"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 19,
+    "question": "Что задаёт промпт с «жёсткими ограничениями»?",
+    "image": "assets/images/19.jpg",
+    "options": [
+      "Тему вопроса",
+      "Формат, объём, стиль ответа",
+      "Язык программирования"
+    ],
+    "correctIndex": 1,
+    "difficulty": "hard"
   }
 ]
