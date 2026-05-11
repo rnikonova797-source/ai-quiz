@@ -1,0 +1,21 @@
+[
+  { "id": 1,
+    "question": "Что такое Large Language Model (LLM)?",
+    "image": "assets/images/1.jpg",
+    "options": ["Нейросеть, обученная на огромных текстах", "База данных с готовыми ответами", "Язык программирования для ИИ"],
+    "correctIndex": 0,
+    "difficulty": "easy"
+  },
+  { "id": 2, "question": "Какой метод чаще всего используется для обучения современных ИИ-моделей?", "image": "assets/images/2.jpg", "options": ["Генетические алгоритмы", "Обучение на данных и самообучение", "Ручное программирование правил"], "correctIndex": 1, "difficulty": "medium" },
+  { "id": 3, "question": "Что означает аббревиатура GPT?", "image": "assets/images/3.jpg", "options": ["General Processing Technology", "Generative Pre-trained Transformer", "Global Prompt Translator"], "correctIndex": 1, "difficulty": "easy" },
+  { "id": 4, "question": "Что такое 'галлюцинация' в контексте работы ИИ?", "image": "assets/images/4.jpg", "options": ["Правдоподобный, но неверный ответ модели", "Визуальные артефакты на изображениях", "Перегрев сервера"], "correctIndex": 0, "difficulty": "medium" },
+  { "id": 5, "question": "Какая компания создала модель DALL-E?", "image": "assets/images/5.jpg", "options": ["Google", "OpenAI", "Meta"], "correctIndex": 1, "difficulty": "easy" },
+  { "id": 6, "question": "Что делает алгоритм компьютерного зрения YOLO?", "image": "assets/images/6.jpg", "options": ["Распознаёт объекты в реальном времени", "Генерирует фотореалистичные портреты", "Переводит текст в речь"], "correctIndex": 0, "difficulty": "hard" },
+  { "id": 7, "question": "Какой принцип лежит в основе Reinforcement Learning?", "image": "assets/images/7.jpg", "options": ["Обучение через награды и штрафы", "Запоминание учебника", "Копирование структуры мозга"], "correctIndex": 0, "difficulty": "medium" },
+  { "id": 8, "question": "Что такое 'токен' в языковых моделях?", "image": "assets/images/8.jpg", "options": ["Часть текста (слово/слог)", "Лицензионный ключ", "Физический чип"], "correctIndex": 0, "difficulty": "easy" },
+  { "id": 9, "question": "Какая метрика чаще всего используется для оценки классификации ИИ?", "image": "assets/images/9.jpg", "options": ["Accuracy, Precision, Recall", "FPS", "Размер модели в ГБ"], "correctIndex": 0, "difficulty": "hard" },
+  { "id": 10, "question": "Что означает термин 'fine-tuning'?", "image": "assets/images/10.jpg", "options": ["Дообучение готовой модели на узких данных", "Уменьшение размера модели", "Замена весов случайными"], "correctIndex": 0, "difficulty": "medium" },
+  { "id": 11, "question": "Какой ИИ впервые обыграл чемпиона мира по ГО?", "image": "assets/images/11.jpg", "options": ["AlphaGo", "Deep Blue", "Watson"], "correctIndex": 0, "difficulty": "easy" },
+  { "id": 12, "question": "Что такое 'prompt engineering'?", "image": "assets/images/12.jpg", "options": ["Составление запросов для лучших результатов", "Сборка серверов", "Написание кода на Python"], "correctIndex": 0, "difficulty": "medium" },
+  { "id": 13, "question": "Какая технология лежит в основе Stable Diffusion?", "image": "assets/images/13.jpg", "options": ["Диффузионные модели", "Рекуррентные сети (RNN)", "Деревья решений"], "correctIndex": 0, "difficulty": "hard" }
+]
